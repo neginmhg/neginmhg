@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Alt text](me.png)
 
 ## 🚀 About Me
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🤝 Mentoring & Recruitment
 
-- Active in recruiting top talent to build high-performing software engineering teams.
+- Active in recruiting top talent from California universities to build high-performing software engineering teams.
 
 ## 📫 Let's Connect!
 
