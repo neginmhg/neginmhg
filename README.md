@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - **Academic Background:** Bachelor's degree in Computer Science from Sacramento State University.
 
 - **Professional Development:** Currently enhancing algorithm skills and building AI agents to stay ahead of industry trends.
+  
+- **My Favorite Activities:** Skiing in Tahoe, hiking in SF, running and weight lifiting.
 
 ## 🌱 Personal Projects
 
