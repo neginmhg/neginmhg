@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Personal Projects
 
-- **Generative AI Exploration:** Building personal AI agents to stay ahead of industry trends, with projects available on my GitHub repositories.
+- **Generative AI Exploration:** Building personal AI agents to stay ahead of industry trends, specifically learning Langchain and CrewAI, with projects available on my GitHub repositories.
 
 ## 🤝 Mentoring & Recruitment
 
