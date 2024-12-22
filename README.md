@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Negin Mahrang, a full-time Software Engineer with a passion for building innovative solutions.
 
 <!--
 **neginmhg/neginmhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile! I'm Negin Mahrang, a full-time Software Engineer with a passion for building innovative solutions.
 
 ## 🚀 About Me
 
