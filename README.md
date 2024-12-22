@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt text](me.png)
+<img src="me.png" alt="Alt text" width="200" />
+
 
 ## 🚀 About Me
 
